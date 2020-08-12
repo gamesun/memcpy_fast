@@ -1,8 +1,5 @@
 /*
  * memcpy_fast.c
- *
- *  Created on: 2019-08-09
- *
  */
 
 #include <stdio.h>
