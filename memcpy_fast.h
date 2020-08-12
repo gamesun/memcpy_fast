@@ -1,8 +1,5 @@
 /*
  * memcpy_fast.h
- *
- *  Created on: 2019-08-09
- *
  */
 
 #pragma once
