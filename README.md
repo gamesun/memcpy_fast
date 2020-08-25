@@ -1,5 +1,5 @@
 # memcpy_fast
-A fast memcpy optimizing depends on data blocks alignment on Cortex-M4.
+A 1.3 to 5.2 times faster memcpy, optimizing depends on data blocks alignment on Cortex-M4.  
 
 ### memcpy_fast vs memcpy
 test code: `memcpy_fast(dest + a, src + b, TEST_BUFF_SIZE + c)` and `memcpy(dest + a, src + b, TEST_BUFF_SIZE + c)`  
