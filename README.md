@@ -6,4 +6,4 @@ test code: `memcpy_fast(dest + a, src + b, TEST_BUFF_SIZE + c)` and `memcpy(dest
 `dest` and `src` are 8 bytes aligned array variables.  
 `TEST_BUFF_SIZE = 10240`  
 
-![memcpy_fast vs memcpy](memcpy_fast vs memcpy.png "memcpy_fast vs memcpy")
+![memcpy_fast vs memcpy](memcpy_fast_vs_memcpy.png "memcpy_fast vs memcpy")
